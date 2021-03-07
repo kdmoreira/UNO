@@ -1,0 +1,16 @@
+C:\Users\Karina Moreira\C#\UNO\UNO\bin\Debug\netcoreapp3.1\UNO.exe
+C:\Users\Karina Moreira\C#\UNO\UNO\bin\Debug\netcoreapp3.1\UNO.deps.json
+C:\Users\Karina Moreira\C#\UNO\UNO\bin\Debug\netcoreapp3.1\UNO.runtimeconfig.json
+C:\Users\Karina Moreira\C#\UNO\UNO\bin\Debug\netcoreapp3.1\UNO.runtimeconfig.dev.json
+C:\Users\Karina Moreira\C#\UNO\UNO\bin\Debug\netcoreapp3.1\UNO.dll
+C:\Users\Karina Moreira\C#\UNO\UNO\bin\Debug\netcoreapp3.1\UNO.pdb
+C:\Users\Karina Moreira\C#\UNO\UNO\bin\Debug\netcoreapp3.1\UNO.Domain.dll
+C:\Users\Karina Moreira\C#\UNO\UNO\bin\Debug\netcoreapp3.1\UNO.Domain.pdb
+C:\Users\Karina Moreira\C#\UNO\UNO\obj\Debug\netcoreapp3.1\UNO.csprojAssemblyReference.cache
+C:\Users\Karina Moreira\C#\UNO\UNO\obj\Debug\netcoreapp3.1\UNO.AssemblyInfoInputs.cache
+C:\Users\Karina Moreira\C#\UNO\UNO\obj\Debug\netcoreapp3.1\UNO.AssemblyInfo.cs
+C:\Users\Karina Moreira\C#\UNO\UNO\obj\Debug\netcoreapp3.1\UNO.csproj.CoreCompileInputs.cache
+C:\Users\Karina Moreira\C#\UNO\UNO\obj\Debug\netcoreapp3.1\UNO.csproj.CopyComplete
+C:\Users\Karina Moreira\C#\UNO\UNO\obj\Debug\netcoreapp3.1\UNO.dll
+C:\Users\Karina Moreira\C#\UNO\UNO\obj\Debug\netcoreapp3.1\UNO.pdb
+C:\Users\Karina Moreira\C#\UNO\UNO\obj\Debug\netcoreapp3.1\UNO.genruntimeconfig.cache
