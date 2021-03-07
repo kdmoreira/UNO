@@ -1,4 +1,4 @@
-# Campinas Tech Talents
+# Console-based UNO game
 
 I love UNO since I've first played this simple, yet addictive, card game, and in order to improve my object-oriented programming skills, I've decided to refactor a console-based UNO game I had previously coded in Python.
 
